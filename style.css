@@ -1,5 +1,5 @@
 html {
-    height: 93.2%;
+    height: 93.3%;
 }
 
 body {
@@ -111,4 +111,8 @@ a:hover {
     font-weight: bold;
     background: deepskyblue;
     color: red;
+}
+
+img:hover {
+    transition: 500ms;
 }
